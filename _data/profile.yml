@@ -23,17 +23,13 @@ short_bio_text_justify: True
 short_bio: >-
   <p>
 I am a Ph.D. student at Seoul National University, conducting research in causal discovery, large language models (LLMs). 
-
 My work is broadly focused on building reliable, interpretable, and generalizable causal reasoning systems, particularly in settings where data is sparse, non-stationary, or embedded in unstructured text.
-
-My early research addressed automated extraction of causal relationships from text using part-of-speech–based data augmentation, which I presented as the first author at **CASE@EMNLP 2022**. Since then, I have been actively exploring how **pre-trained language models can be leveraged to incorporate prior knowledge into causal structure learning**, co-authoring papers presented at **NeurIPS 2024 (Causality and Large Models Workshop)** and currently under review at **IEEE Access**.
-
+My early research addressed automated extraction of causal relationships from text using part-of-speech–based data augmentation, which I presented as the first author at **CASE at EMNLP 2022**. Since then, I have been actively exploring how **pre-trained language models can be leveraged to incorporate prior knowledge into causal structure learning**, co-authoring papers presented at **NeurIPS 2024 (Causality and Large Models Workshop)** and currently under review at **IEEE Access**.
 Alongside this, I am the lead inventor of a causal discovery framewor that integrates LLMs into graph learning pipelines. 
-
+</p>
+<p>
 My recent efforts involve both theoretical and empirical investigations of **non-stationary time series causal discovery** and **spatio-temporal causal discovery**.
-
 In addition, I am developing a series of studies on **LLM citation reliability**, including saliency-based methods, and on **diffusion-based causal discovery using mixture-of-experts (MoE)** architectures.
-
 My research aims to bridge language understanding, causal inference, and dynamic systems — with the long-term goal of building robust AI systems that can reason about change, uncertainty, and cause-effect relationships in real-world settings.
   </p>
 
