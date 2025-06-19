@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   Working Progress
-cover:          /assets/images/covers/LG.png
+# cover:          /assets/images/covers/LG.png
 authors:
   - Juhyeon Kim
   - Sanghack Lee
