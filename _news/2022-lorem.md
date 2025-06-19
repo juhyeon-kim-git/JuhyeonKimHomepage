@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Participated in the National Research Foundation of Korea (NRF) project on "developing self-directed AI technologies for solving emerging problems".
+date: 2022-04-01 00:01:00 +0800
 ---
