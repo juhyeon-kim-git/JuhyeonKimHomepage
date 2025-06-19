@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 
 abstract: >- 
-Working Progress
+  Working Progress
 # cover:          /assets/images/covers/LG.png
 authors:
   - Juhyeon Kim
