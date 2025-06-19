@@ -1,7 +1,7 @@
 ---
 title:          "On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery"
 date:           2024-10-11 00:01:00 +0800
-selected:       false
+selected:       True
 pub:            "Neural Information Processing Systems (NeurIPS) Workshop on Causality and Large Models"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
