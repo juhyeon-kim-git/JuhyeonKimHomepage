@@ -1,23 +1,22 @@
 ---
 show: true
 width: 8
-date: 2024-01-12 00:01:00 +0800
+date: 2025-06-19 00:01:00 +0900
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>Welcome to My Academic Homepage!</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        This website showcases my research in causal discovery, large language models (LLMs), and time series analysis. I created this site to share my latest publications, projects, and collaborations in the field of machine learning and artificial intelligence.
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
+        You can explore the <code>Publications</code> section to find my recent papers, including works presented at EMNLP, NeurIPS, and UAI, as well as ongoing projects in collaboration with LG AI Research and other institutions.
     </p>
     <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
+        I also introduce my patent contributions, funded research projects, and academic journey through this site. This homepage is designed to help connect with fellow researchers, collaborators, and anyone interested in AI and causal inference.
     </p>
     <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+        Feel free to reach out via email <a href="kimjh9474@snu.ac.kr" target="_blank">email</a> and <a href="https://scholar.google.com/citations?user=J6IQB_oAAAAJ" target="_blank">Google Scholar</a> for more.
     </p>
 </div>
